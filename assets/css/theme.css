@@ -253,9 +253,9 @@ blockquote p {
   text-decoration: none;
   background-color: #CC6633;
   color: #ffffff;
-  -webkit-border-radius: 70px;
+  /* -webkit-border-radius: 70px; */
   -moz-border-radius: 70px;
-  border-radius: 70px;
+  /* border-radius: 70px; */
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
